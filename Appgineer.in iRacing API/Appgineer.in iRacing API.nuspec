@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/appgineerin/Appgineer.in-iRacing-API/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/appgineerin/Appgineer.in-iRacing-API</projectUrl>
+    <iconUrl>https://atvo.appgineering.com/images/atvo_logo_navbar_large.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>iRacing ATVO API</tags>
+  </metadata>
+</package>
