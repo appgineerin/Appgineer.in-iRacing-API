@@ -262,10 +262,7 @@ namespace AiRAPI.Impl
                 }
                 catch (Exception e)
                 {
-                    Application.Current.Dispatcher.Invoke(new Action(delegate
-                    {
-                        LoggingModule.LogException(e);
-                    }));
+                    Console.WriteLine(e);
                 }
 #endif
             }
